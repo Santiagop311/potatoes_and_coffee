@@ -1,0 +1,9 @@
+{
+  "name": "papas-y-cafe-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix papas-y-cafe run dev",
+    "start": "npm --prefix papas-y-cafe run start",
+    "check": "npm --prefix papas-y-cafe run check"
+  }
+}

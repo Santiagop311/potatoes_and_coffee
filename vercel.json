@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "devCommand": "npm run dev",
+  "outputDirectory": "papas-y-cafe/dist"
+}

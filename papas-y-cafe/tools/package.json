@@ -1,0 +1,11 @@
+{
+  "name": "papas-cafe-brand-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "brand": "node generate-brand.mjs"
+  },
+  "dependencies": {
+    "fontkit": "3.0.0"
+  }
+}
