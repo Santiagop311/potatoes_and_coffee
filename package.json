@@ -1,9 +1,11 @@
 {
-  "name": "papas-y-cafe-workspace",
+  "name": "papas-y-cafe",
+  "version": "1.0.0",
   "private": true,
+  "description": "Página de Papas y Café, HTML, CSS y JavaScript sin dependencias",
   "scripts": {
-    "dev": "npm --prefix papas-y-cafe run dev",
-    "start": "npm --prefix papas-y-cafe run start",
-    "check": "npm --prefix papas-y-cafe run check"
+    "dev": "node serve.mjs",
+    "start": "node serve.mjs",
+    "check": "node --check dist/app.js && node --check dist/experience.js && node --check dist/gallery.js && node --check serve.mjs"
   }
 }

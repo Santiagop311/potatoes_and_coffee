@@ -4,5 +4,5 @@
   "buildCommand": "",
   "installCommand": "",
   "devCommand": "npm run dev",
-  "outputDirectory": "papas-y-cafe/dist"
+  "outputDirectory": "dist"
 }
