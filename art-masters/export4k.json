@@ -1,0 +1,164 @@
+{
+  "assets": [
+    {
+      "slug": "empanada",
+      "source": "art-masters/scenes/empanada.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "path": "art-masters/exports-4k/empanada.webp",
+      "exportDimensions": [
+        3840,
+        2560
+      ],
+      "upscaled": true,
+      "bytes": 1082756,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    },
+    {
+      "slug": "salchipapota",
+      "source": "art-masters/scenes/salchipapota.png",
+      "nativeDimensions": [
+        1396,
+        1127
+      ],
+      "path": "art-masters/exports-4k/salchipapota.webp",
+      "exportDimensions": [
+        3840,
+        3100
+      ],
+      "upscaled": true,
+      "bytes": 1368044,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    },
+    {
+      "slug": "pataconsote",
+      "source": "art-masters/scenes/pataconsote.png",
+      "nativeDimensions": [
+        1519,
+        1036
+      ],
+      "path": "art-masters/exports-4k/pataconsote.webp",
+      "exportDimensions": [
+        3840,
+        2619
+      ],
+      "upscaled": true,
+      "bytes": 1157782,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    },
+    {
+      "slug": "chimichanga",
+      "source": "art-masters/scenes/chimichanga.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "path": "art-masters/exports-4k/chimichanga.webp",
+      "exportDimensions": [
+        3840,
+        2560
+      ],
+      "upscaled": true,
+      "bytes": 1179904,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    },
+    {
+      "slug": "despeinada",
+      "source": "art-masters/scenes/despeinada.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "path": "art-masters/exports-4k/despeinada.webp",
+      "exportDimensions": [
+        3840,
+        2560
+      ],
+      "upscaled": true,
+      "bytes": 1017440,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    },
+    {
+      "slug": "pataconada",
+      "source": "art-masters/scenes/pataconada.png",
+      "nativeDimensions": [
+        1312,
+        1199
+      ],
+      "path": "art-masters/exports-4k/pataconada.webp",
+      "exportDimensions": [
+        3840,
+        3509
+      ],
+      "upscaled": true,
+      "bytes": 1604242,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    },
+    {
+      "slug": "santarosanos",
+      "source": "art-masters/scenes/santarosanos.png",
+      "nativeDimensions": [
+        1521,
+        1034
+      ],
+      "path": "art-masters/exports-4k/santarosanos.webp",
+      "exportDimensions": [
+        3840,
+        2610
+      ],
+      "upscaled": true,
+      "bytes": 1158422,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    },
+    {
+      "slug": "super-mixta",
+      "source": "art-masters/scenes/super-mixta.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "path": "art-masters/exports-4k/super-mixta.webp",
+      "exportDimensions": [
+        3840,
+        2560
+      ],
+      "upscaled": true,
+      "bytes": 1290828,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    },
+    {
+      "slug": "choripapa",
+      "source": "art-masters/scenes/choripapa.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "path": "art-masters/exports-4k/choripapa.webp",
+      "exportDimensions": [
+        3840,
+        2560
+      ],
+      "upscaled": true,
+      "bytes": 1481276,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    },
+    {
+      "slug": "salchipapa-tradicional",
+      "source": "art-masters/scenes/salchipapa-tradicional.png",
+      "nativeDimensions": [
+        1327,
+        1186
+      ],
+      "path": "art-masters/exports-4k/salchipapa-tradicional.webp",
+      "exportDimensions": [
+        3840,
+        3432
+      ],
+      "upscaled": true,
+      "bytes": 997478,
+      "note": "Enlarged from native generated image. 3840px export is not native 4K generation; no retouching or additional detail synthesized."
+    }
+  ]
+}

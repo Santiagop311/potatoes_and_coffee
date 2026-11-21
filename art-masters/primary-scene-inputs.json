@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "empanada",
+    "reference": "dist/assets/empanadas.jpeg",
+    "prompt": "Use case: product-mockup. Create a premium photorealistic food studio cutout for the website of Papas y Café. The reference photo documents the exact Colombian empanada: thick golden yellow cornmeal shell, oval crescent shape, textured fried crust, generous shredded beef filling (not minced meat or vegetables). Show ONE entire empanada prominently at a floating three-quarter angle, with a small opening along the top edge revealing shredded beef. Only one empanada, no other food. Preserve recognizable handmade proportions from reference. Directional soft light from upper left, realistic crisp corn texture, warm appetizing golden highlights, dimensional but natural. Entire silhouette with 10% clear margin, centered composition, isolated real transparent alpha background, no plate, no hand, no sauces, no text, no logo, no watermark, no cast shadow baked into transparent canvas. Aim for highest available detail, 3840px longest edge if supported. It is an illustrative recreation based on the official dish photo."
+  },
+  {
+    "slug": "salchipapota",
+    "reference": "dist/assets/salchipapota.jpeg",
+    "prompt": "Use case: product-mockup. Premium photorealistic whole-food studio cutout for the Papas y Café website, based on exact dish and packaging in reference. Show ONE bowl only, complete entire round low natural kraft cardboard bowl lined in black and white checkered food paper, filled with rustic french fries, sliced sausage, shredded chicken and shredded beef, topped with sweetcorn and molten pale white cheese. Reference has two bowls but deliver one complete bowl, with correct handmade generous irregular mound and no invented garnishes, no herbs, no tomatoes, no additional sauce. Three-quarter frontal camera, slightly elevated 15 degrees so toppings and bowl front both visible. Soft upper-left studio lighting, appetizing warm detailed food, packaging whole and rim visible, centered with 10% transparent margin. Real transparent alpha background. No hands, cutlery, table, typography, logos, watermark or background, no baked cast shadow. Highest available detail, 3840px longest edge if supported. Preserve real bowl shape and checkered paper. Illustrative recreation, no weight label."
+  },
+  {
+    "slug": "empanada-background",
+    "reference": null,
+    "prompt": "Use case: ads-marketing. Asset type: empty background for a Colombian street-food product website. Create a refined, very subtle macro photograph landscape 16:9, warm vibrant mustard yellow base #f8bd24. At the far right edge only, a close-up golden crisp cornmeal empanada crust texture, soft out of focus rich natural pores and tiny crumbs. The left 65 percent and central 40 percent must remain quiet plain yellow with smooth soft light, completely empty for HTML typography and product cutout. Gentle upper-left studio illumination and a few extremely subtle grain details. No whole food, no bowl, no plates, no objects in center, no text, no lettering, no graphic shapes, no diagonal lines, no logo, no watermark. This is an atmospheric macro surface, not a poster. Highest available resolution."
+  },
+  {
+    "slug": "queso-background",
+    "reference": null,
+    "prompt": "Use case: ads-marketing. Asset type: empty atmospheric macro background for food product website. Create a subtle editorial macro food photograph in landscape16:9. Warm pale apricot monochromatic base, quiet flat soft light. At the extreme upper-right edge only, an abstract close-up of molten creamy cheese with delicate soft ripples and a tiny hint of golden sweetcorn in the far lower-right edge. Both textures are softly defocused, stay entirely in the far right15 percent, occupy only edges. Left65 percent and broad center completely empty with subtle fine natural film grain, for HTML text and transparent product. No complete product, no bowl, no plate, no cutlery, no garnish, no herbs, no letters, no shapes, no logos. Premium macro texture, smooth soft illumination from upper left. Highest available detail."
+  }
+]

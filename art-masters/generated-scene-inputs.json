@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "pataconsote",
+    "reference": "dist/assets/pataconsote.jpeg",
+    "prompt": "Use case: product-mockup. Asset: transparent product render for Papas y Café restaurant website. Produce high fidelity photoreal studio food photography, not a cartoon. Camera at elevated three-quarter angle around 35 degrees, whole dish centered, complete silhouette with generous transparent margin. Soft warm studio light from upper left, crisp natural food texture. Genuine transparent alpha background. No text, logos, labels, watermark, utensils, hands, table, unrelated garnish or floating ingredients. Preserve the recognizable preparation and presentation shown in the reference. Input image is the actual pataconsote reference. Recreate the whole single large broad flattened golden fried plantain patacón topped with shredded beef and chicken, yellow corn kernels and generous melted creamy white cheese. Include a modest sheet of black and white checkered deli paper tucked beneath the dish, with its whole edge visible; no tray, plate, knife or background. Keep the plantain silhouette, topping proportions and rustic texture faithful. No added tomatoes, chorizo, lettuce, herbs or fries.",
+    "generatedPath": "/home/parra/.codex/generated_images/01a1ff53-8e02-7820-81d8-d11479836535/exec-546de803-3678-4dc7-bd12-397eefcb60cf.png"
+  },
+  {
+    "slug": "chimichanga",
+    "reference": "dist/assets/chimichanga.jpeg",
+    "prompt": "Use case: product-mockup. Asset: transparent product render for Papas y Café restaurant website. Produce high fidelity photoreal studio food photography, not a cartoon. Camera at elevated three-quarter angle around 35 degrees, whole dish centered, complete silhouette with generous transparent margin. Soft warm studio light from upper left, crisp natural food texture. Genuine transparent alpha background. No text, logos, labels, watermark, utensils, hands, table, unrelated garnish or floating ingredients. Preserve the recognizable preparation and presentation shown in the reference. Input image is the actual chimichanga reference. Recreate the complete serving: golden shallow fried flour tortilla parcel in two sections, filled with shredded beef and chicken, coated with melted white cheese and yellow sweetcorn, accompanied by a portion of thick rustic golden fries. Present food on the same simple white food liner as the reference but remove its printed drawings and all text. Keep all food and modest liner outline entirely visible; do not add a plate, bowl, sauces or garnish. The two tortilla portions remain recognizable under the cheese.",
+    "generatedPath": "/home/parra/.codex/generated_images/01a1ff53-8e02-7820-81d8-d11479836535/exec-8ed59d80-6cb3-4c6c-b76e-51ab502088c6.png"
+  },
+  {
+    "slug": "despeinada",
+    "reference": "dist/assets/despeinada.jpeg",
+    "prompt": "Use case: product-mockup. Asset: transparent product render for Papas y Café restaurant website. Produce high fidelity photoreal studio food photography, not a cartoon. Camera at elevated three-quarter angle around 35 degrees, whole dish centered, complete silhouette with generous transparent margin. Soft warm studio light from upper left, crisp natural food texture. Genuine transparent alpha background. No text, logos, labels, watermark, utensils, hands, table, unrelated garnish or floating ingredients. Preserve the recognizable preparation and presentation shown in the reference. Input image is the actual La despeinada reference. Recreate the whole single circular grilled natural corn arepa topped with shredded beef and chicken and a broad melted double-cream cheese layer. Preserve the low circular silhouette, the visible grilled arepa edge and strands of meat around its edge. Include only a small black and white checkered food-paper sheet beneath it with complete outline. No bowl or plate, no background signs, no corn kernels, fries, chorizo, tomato or herbs. This is the standard despeinada, not the súper mixta.",
+    "generatedPath": "/home/parra/.codex/generated_images/01a1ff53-8e02-7820-81d8-d11479836535/exec-539a625b-125b-474c-9777-c1227d7e863b.png"
+  },
+  {
+    "slug": "maiz",
+    "reference": null,
+    "prompt": "Use case: product-mockup. Asset: transparent isolated food ingredient used as small floating decorative piece for a restaurant website. Exactly two plump cooked sweetcorn kernels together, bright golden yellow, realistic rounded moist surface and subtle translucent edges. Elevated three-quarter camera, soft warm studio light from upper left, complete silhouettes, centered with generous transparent margin, genuine transparent alpha background. Photorealistic macro food photography. No cob, leaves, bowl, plate, text, watermark, extra kernels or other food. The two kernels must remain recognizable at small display size.",
+    "generatedPath": "/home/parra/.codex/generated_images/01a1ff53-8e02-7820-81d8-d11479836535/exec-7b5cae1e-f417-4c77-abad-e38676f28258.png"
+  },
+  {
+    "slug": "papas",
+    "reference": null,
+    "prompt": "Use case: product-mockup. Asset: transparent isolated food ingredient used as small floating decorative piece for a restaurant website. Exactly two thick rustic golden french fries, hand-cut from potato, lightly crisp uneven surfaces, one crossing behind the other in a loose short diagonal. Photorealistic macro food photography. Elevated three-quarter camera, soft warm studio light from upper left, complete silhouettes and generous transparent margin, genuine transparent alpha background. No pile, bowl, plate, paper, salt crystals, herbs, ketchup, text, watermark or other food. Keep the two fries visually clear at small display size.",
+    "generatedPath": "/home/parra/.codex/generated_images/01a1ff53-8e02-7820-81d8-d11479836535/exec-818d66dd-c63f-48c5-b3cd-a32cd402d3d3.png"
+  }
+]

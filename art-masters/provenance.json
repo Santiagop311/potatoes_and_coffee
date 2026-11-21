@@ -1,0 +1,785 @@
+{
+  "assets": [
+    {
+      "slug": "pataconsote",
+      "tool": "built-in imagegen",
+      "kind": "generated-product-render",
+      "reference": "dist/assets/pataconsote.jpeg",
+      "prompt": "Use case: product-mockup. Asset: transparent product render for Papas y Café restaurant website. Produce high fidelity photoreal studio food photography, not a cartoon. Camera at elevated three-quarter angle around 35 degrees, whole dish centered, complete silhouette with generous transparent margin. Soft warm studio light from upper left, crisp natural food texture. Genuine transparent alpha background. No text, logos, labels, watermark, utensils, hands, table, unrelated garnish or floating ingredients. Preserve the recognizable preparation and presentation shown in the reference. Input image is the actual pataconsote reference. Recreate the whole single large broad flattened golden fried plantain patacón topped with shredded beef and chicken, yellow corn kernels and generous melted creamy white cheese. Include a modest sheet of black and white checkered deli paper tucked beneath the dish, with its whole edge visible; no tray, plate, knife or background. Keep the plantain silhouette, topping proportions and rustic texture faithful. No added tomatoes, chorizo, lettuce, herbs or fries.",
+      "master": "art-masters/scenes/pataconsote.png",
+      "nativeDimensions": [
+        1519,
+        1036
+      ],
+      "masterDimensions": [
+        1519,
+        1036
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/pataconsote-510.webp",
+          "dimensions": [
+            510,
+            348
+          ],
+          "upscaled": false,
+          "bytes": 60626
+        },
+        {
+          "path": "dist/assets/scenes/pataconsote-1200.webp",
+          "dimensions": [
+            1200,
+            818
+          ],
+          "upscaled": false,
+          "bytes": 242822
+        },
+        {
+          "path": "dist/assets/scenes/pataconsote-1920.webp",
+          "dimensions": [
+            1920,
+            1309
+          ],
+          "upscaled": true,
+          "bytes": 463110
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "chimichanga",
+      "tool": "built-in imagegen",
+      "kind": "generated-product-render",
+      "reference": "dist/assets/chimichanga.jpeg",
+      "prompt": "Use case: product-mockup. Asset: transparent product render for Papas y Café restaurant website. Produce high fidelity photoreal studio food photography, not a cartoon. Camera at elevated three-quarter angle around 35 degrees, whole dish centered, complete silhouette with generous transparent margin. Soft warm studio light from upper left, crisp natural food texture. Genuine transparent alpha background. No text, logos, labels, watermark, utensils, hands, table, unrelated garnish or floating ingredients. Preserve the recognizable preparation and presentation shown in the reference. Input image is the actual chimichanga reference. Recreate the complete serving: golden shallow fried flour tortilla parcel in two sections, filled with shredded beef and chicken, coated with melted white cheese and yellow sweetcorn, accompanied by a portion of thick rustic golden fries. Present food on the same simple white food liner as the reference but remove its printed drawings and all text. Keep all food and modest liner outline entirely visible; do not add a plate, bowl, sauces or garnish. The two tortilla portions remain recognizable under the cheese.",
+      "master": "art-masters/scenes/chimichanga.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "masterDimensions": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        254
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/chimichanga-510.webp",
+          "dimensions": [
+            510,
+            340
+          ],
+          "upscaled": false,
+          "bytes": 54940
+        },
+        {
+          "path": "dist/assets/scenes/chimichanga-1200.webp",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "upscaled": false,
+          "bytes": 239980
+        },
+        {
+          "path": "dist/assets/scenes/chimichanga-1920.webp",
+          "dimensions": [
+            1920,
+            1280
+          ],
+          "upscaled": true,
+          "bytes": 454696
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "despeinada",
+      "tool": "built-in imagegen",
+      "kind": "generated-product-render",
+      "reference": "dist/assets/despeinada.jpeg",
+      "prompt": "Use case: product-mockup. Asset: transparent product render for Papas y Café restaurant website. Produce high fidelity photoreal studio food photography, not a cartoon. Camera at elevated three-quarter angle around 35 degrees, whole dish centered, complete silhouette with generous transparent margin. Soft warm studio light from upper left, crisp natural food texture. Genuine transparent alpha background. No text, logos, labels, watermark, utensils, hands, table, unrelated garnish or floating ingredients. Preserve the recognizable preparation and presentation shown in the reference. Input image is the actual La despeinada reference. Recreate the whole single circular grilled natural corn arepa topped with shredded beef and chicken and a broad melted double-cream cheese layer. Preserve the low circular silhouette, the visible grilled arepa edge and strands of meat around its edge. Include only a small black and white checkered food-paper sheet beneath it with complete outline. No bowl or plate, no background signs, no corn kernels, fries, chorizo, tomato or herbs. This is the standard despeinada, not the súper mixta.",
+      "master": "art-masters/scenes/despeinada.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "masterDimensions": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        254
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/despeinada-510.webp",
+          "dimensions": [
+            510,
+            340
+          ],
+          "upscaled": false,
+          "bytes": 45378
+        },
+        {
+          "path": "dist/assets/scenes/despeinada-1200.webp",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "upscaled": false,
+          "bytes": 200924
+        },
+        {
+          "path": "dist/assets/scenes/despeinada-1920.webp",
+          "dimensions": [
+            1920,
+            1280
+          ],
+          "upscaled": true,
+          "bytes": 393406
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "maiz",
+      "tool": "built-in imagegen",
+      "kind": "generated-decorative-ingredient",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Asset: transparent isolated food ingredient used as small floating decorative piece for a restaurant website. Exactly two plump cooked sweetcorn kernels together, bright golden yellow, realistic rounded moist surface and subtle translucent edges. Elevated three-quarter camera, soft warm studio light from upper left, complete silhouettes, centered with generous transparent margin, genuine transparent alpha background. Photorealistic macro food photography. No cob, leaves, bowl, plate, text, watermark, extra kernels or other food. The two kernels must remain recognizable at small display size.",
+      "master": "art-masters/scenes/maiz.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "masterDimensions": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        254
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/maiz-510.webp",
+          "dimensions": [
+            510,
+            340
+          ],
+          "upscaled": false,
+          "bytes": 20270
+        },
+        {
+          "path": "dist/assets/scenes/maiz-1200.webp",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "upscaled": false,
+          "bytes": 83396
+        },
+        {
+          "path": "dist/assets/scenes/maiz-1920.webp",
+          "dimensions": [
+            1920,
+            1280
+          ],
+          "upscaled": true,
+          "bytes": 163738
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "papas",
+      "tool": "built-in imagegen",
+      "kind": "generated-decorative-ingredient",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Asset: transparent isolated food ingredient used as small floating decorative piece for a restaurant website. Exactly two thick rustic golden french fries, hand-cut from potato, lightly crisp uneven surfaces, one crossing behind the other in a loose short diagonal. Photorealistic macro food photography. Elevated three-quarter camera, soft warm studio light from upper left, complete silhouettes and generous transparent margin, genuine transparent alpha background. No pile, bowl, plate, paper, salt crystals, herbs, ketchup, text, watermark or other food. Keep the two fries visually clear at small display size.",
+      "master": "art-masters/scenes/papas.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "masterDimensions": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        254
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/papas-510.webp",
+          "dimensions": [
+            510,
+            340
+          ],
+          "upscaled": false,
+          "bytes": 35814
+        },
+        {
+          "path": "dist/assets/scenes/papas-1200.webp",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "upscaled": false,
+          "bytes": 177394
+        },
+        {
+          "path": "dist/assets/scenes/papas-1920.webp",
+          "dimensions": [
+            1920,
+            1280
+          ],
+          "upscaled": true,
+          "bytes": 362590
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "empanada",
+      "reference": "dist/assets/empanadas.jpeg",
+      "prompt": "Use case: product-mockup. Create a premium photorealistic food studio cutout for the website of Papas y Café. The reference photo documents the exact Colombian empanada: thick golden yellow cornmeal shell, oval crescent shape, textured fried crust, generous shredded beef filling (not minced meat or vegetables). Show ONE entire empanada prominently at a floating three-quarter angle, with a small opening along the top edge revealing shredded beef. Only one empanada, no other food. Preserve recognizable handmade proportions from reference. Directional soft light from upper left, realistic crisp corn texture, warm appetizing golden highlights, dimensional but natural. Entire silhouette with 10% clear margin, centered composition, isolated real transparent alpha background, no plate, no hand, no sauces, no text, no logo, no watermark, no cast shadow baked into transparent canvas. Aim for highest available detail, 3840px longest edge if supported. It is an illustrative recreation based on the official dish photo.",
+      "tool": "built-in imagegen",
+      "kind": "generated-product-render",
+      "master": "art-masters/scenes/empanada.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        254
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/empanada-1200.webp",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "upscaled": false,
+          "bytes": 206924
+        },
+        {
+          "path": "dist/assets/scenes/empanada-1920.webp",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "upscaled": false,
+          "bytes": 301798
+        },
+        {
+          "path": "dist/assets/scenes/empanada-510.webp",
+          "dimensions": [
+            510,
+            340
+          ],
+          "upscaled": false,
+          "bytes": 40916
+        },
+        {
+          "path": "dist/assets/scenes/empanada-background-tall.webp",
+          "dimensions": [
+            720,
+            1280
+          ],
+          "upscaled": false,
+          "bytes": 40630
+        },
+        {
+          "path": "dist/assets/scenes/empanada-background-wide.webp",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "upscaled": true,
+          "bytes": 51810
+        }
+      ],
+      "notes": "Recreación ilustrativa con IA. El maestro nativo se conserva sin modificación. Los fondos verticales son recortes adaptados del maestro horizontal."
+    },
+    {
+      "slug": "salchipapota",
+      "reference": "dist/assets/salchipapota.jpeg",
+      "prompt": "Use case: product-mockup. Premium photorealistic whole-food studio cutout for the Papas y Café website, based on exact dish and packaging in reference. Show ONE bowl only, complete entire round low natural kraft cardboard bowl lined in black and white checkered food paper, filled with rustic french fries, sliced sausage, shredded chicken and shredded beef, topped with sweetcorn and molten pale white cheese. Reference has two bowls but deliver one complete bowl, with correct handmade generous irregular mound and no invented garnishes, no herbs, no tomatoes, no additional sauce. Three-quarter frontal camera, slightly elevated 15 degrees so toppings and bowl front both visible. Soft upper-left studio lighting, appetizing warm detailed food, packaging whole and rim visible, centered with 10% transparent margin. Real transparent alpha background. No hands, cutlery, table, typography, logos, watermark or background, no baked cast shadow. Highest available detail, 3840px longest edge if supported. Preserve real bowl shape and checkered paper. Illustrative recreation, no weight label.",
+      "tool": "built-in imagegen",
+      "kind": "generated-product-render",
+      "master": "art-masters/scenes/salchipapota.png",
+      "nativeDimensions": [
+        1396,
+        1127
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/salchipapota-1200.webp",
+          "dimensions": [
+            1200,
+            969
+          ],
+          "upscaled": false,
+          "bytes": 293366
+        },
+        {
+          "path": "dist/assets/scenes/salchipapota-1920.webp",
+          "dimensions": [
+            1396,
+            1127
+          ],
+          "upscaled": false,
+          "bytes": 364972
+        },
+        {
+          "path": "dist/assets/scenes/salchipapota-510.webp",
+          "dimensions": [
+            510,
+            412
+          ],
+          "upscaled": false,
+          "bytes": 67242
+        }
+      ],
+      "notes": "Recreación ilustrativa con IA. El maestro nativo se conserva sin modificación. Los fondos verticales son recortes adaptados del maestro horizontal."
+    },
+    {
+      "slug": "empanada-background",
+      "reference": null,
+      "prompt": "Use case: ads-marketing. Asset type: empty background for a Colombian street-food product website. Create a refined, very subtle macro photograph landscape 16:9, warm vibrant mustard yellow base #f8bd24. At the far right edge only, a close-up golden crisp cornmeal empanada crust texture, soft out of focus rich natural pores and tiny crumbs. The left 65 percent and central 40 percent must remain quiet plain yellow with smooth soft light, completely empty for HTML typography and product cutout. Gentle upper-left studio illumination and a few extremely subtle grain details. No whole food, no bowl, no plates, no objects in center, no text, no lettering, no graphic shapes, no diagonal lines, no logo, no watermark. This is an atmospheric macro surface, not a poster. Highest available resolution.",
+      "tool": "built-in imagegen",
+      "kind": "generated-background",
+      "master": "art-masters/scenes/empanada-background.png",
+      "nativeDimensions": [
+        1672,
+        941
+      ],
+      "alphaExtrema": null,
+      "exports": [
+        {
+          "path": "dist/assets/scenes/empanada-background-tall.webp",
+          "dimensions": [
+            720,
+            1280
+          ],
+          "upscaled": false,
+          "bytes": 40630
+        },
+        {
+          "path": "dist/assets/scenes/empanada-background-wide.webp",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "upscaled": false,
+          "bytes": 51810
+        }
+      ],
+      "notes": "Recreación ilustrativa con IA. El maestro nativo se conserva sin modificación. Los fondos verticales son recortes adaptados del maestro horizontal."
+    },
+    {
+      "slug": "queso-background",
+      "reference": null,
+      "prompt": "Use case: ads-marketing. Asset type: empty atmospheric macro background for food product website. Create a subtle editorial macro food photograph in landscape16:9. Warm pale apricot monochromatic base, quiet flat soft light. At the extreme upper-right edge only, an abstract close-up of molten creamy cheese with delicate soft ripples and a tiny hint of golden sweetcorn in the far lower-right edge. Both textures are softly defocused, stay entirely in the far right15 percent, occupy only edges. Left65 percent and broad center completely empty with subtle fine natural film grain, for HTML text and transparent product. No complete product, no bowl, no plate, no cutlery, no garnish, no herbs, no letters, no shapes, no logos. Premium macro texture, smooth soft illumination from upper left. Highest available detail.",
+      "tool": "built-in imagegen",
+      "kind": "generated-background",
+      "master": "art-masters/scenes/queso-background.png",
+      "nativeDimensions": [
+        1672,
+        941
+      ],
+      "alphaExtrema": null,
+      "exports": [
+        {
+          "path": "dist/assets/scenes/queso-background-tall.webp",
+          "dimensions": [
+            720,
+            1280
+          ],
+          "upscaled": false,
+          "bytes": 16946
+        },
+        {
+          "path": "dist/assets/scenes/queso-background-wide.webp",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "upscaled": false,
+          "bytes": 25814
+        }
+      ],
+      "notes": "Recreación ilustrativa con IA. El maestro nativo se conserva sin modificación. Los fondos verticales son recortes adaptados del maestro horizontal."
+    },
+    {
+      "slug": "pataconada",
+      "tool": "built-in imagegen",
+      "kind": "generated-product-render",
+      "reference": "dist/assets/pataconada.jpeg",
+      "prompt": "Use case: product-mockup. Asset: isolated transparent product photograph for the Papas y Café restaurant website. Input image is the real Pataconada supplied by the restaurant. Recreate this complete preparation faithfully as polished natural food photography: a ring of small round flattened golden fried plantain pataconcitos, with sliced browned santarosano chorizo grouped on the left, shredded chicken upper center and shredded beef lower center. Preserve the real six tomato slices placed around the outer ring and the overall abundantly filled serving. Serve on the same red-and-white checkered food liner with no text or branding, on a modest black rectangular tray with its entire edge visible. Keep the small actual white two-compartment sauce dish in front of the tray, filled with thick brownish house guiso/sauce. Keep faithful relative portions and composition; do not add cheese, corn, fries, herbs, utensils or invented garnishes. Studio camera elevated three-quarter angle about 40 degrees, whole tray and entire sauce dish centered with generous transparent margin on every edge, complete intact silhouette, soft warm light from upper left, crisp realistic texture, no background, floor, table, hands, lettering or watermark. Genuine transparent alpha background for the full entire dish and sauce dish; do not crop any edge.",
+      "master": "art-masters/scenes/pataconada.png",
+      "nativeDimensions": [
+        1312,
+        1199
+      ],
+      "masterDimensions": [
+        1312,
+        1199
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/pataconada-510.webp",
+          "dimensions": [
+            510,
+            466
+          ],
+          "upscaled": false,
+          "bytes": 82634
+        },
+        {
+          "path": "dist/assets/scenes/pataconada-1200.webp",
+          "dimensions": [
+            1200,
+            1097
+          ],
+          "upscaled": false,
+          "bytes": 346460
+        },
+        {
+          "path": "dist/assets/scenes/pataconada-1920.webp",
+          "dimensions": [
+            1920,
+            1755
+          ],
+          "upscaled": true,
+          "bytes": 627742
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "queso",
+      "tool": "built-in imagegen",
+      "kind": "generated-decorative-ingredient",
+      "reference": null,
+      "prompt": "Use case: product-mockup. A single small thick irregular folded shaving of creamy white mozzarella cheese, recognizably real cheese, gentle bend, three-quarter angle, soft studio upper-left lighting. Photorealistic food ingredient cutout for a Colombian restaurant website, centered entire contour with generous clear space, real transparent alpha background, no plate, no bowl, no herbs, no text, no logo, no watermark, no background or cast shadow. Warm natural matte creamy texture, subtle three dimensional volume.",
+      "master": "art-masters/scenes/queso.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "masterDimensions": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/queso-510.webp",
+          "dimensions": [
+            510,
+            340
+          ],
+          "upscaled": false,
+          "bytes": 19324
+        },
+        {
+          "path": "dist/assets/scenes/queso-1200.webp",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "upscaled": false,
+          "bytes": 79206
+        },
+        {
+          "path": "dist/assets/scenes/queso-1920.webp",
+          "dimensions": [
+            1920,
+            1280
+          ],
+          "upscaled": true,
+          "bytes": 155550
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "carne",
+      "tool": "built-in imagegen",
+      "kind": "generated-decorative-ingredient",
+      "reference": null,
+      "prompt": "Use case: product-mockup. A single small loose nest of tender cooked shredded beef, long natural brown meat fibers as used in Colombian empanada filling, photorealistic appetizing moist texture, no sauce puddle or fat globs. Three-quarter angle, soft studio light upper-left, centered with generous clear space. Complete isolated food ingredient cutout with genuine transparent alpha background, no plate, no bowl, no garnish, no herbs, no unrelated food, no background, no cast shadow, no text, no logo, no watermark. Cohesive small morsel reads clearly at80px.",
+      "master": "art-masters/scenes/carne.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "masterDimensions": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        254
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/carne-510.webp",
+          "dimensions": [
+            510,
+            340
+          ],
+          "upscaled": false,
+          "bytes": 43148
+        },
+        {
+          "path": "dist/assets/scenes/carne-1200.webp",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "upscaled": false,
+          "bytes": 185732
+        },
+        {
+          "path": "dist/assets/scenes/carne-1920.webp",
+          "dimensions": [
+            1920,
+            1280
+          ],
+          "upscaled": true,
+          "bytes": 356498
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "santarosanos",
+      "tool": "built-in imagegen",
+      "kind": "generated-product-render",
+      "reference": "dist/assets/santarosanos.jpeg",
+      "prompt": "Use case: product-mockup. Asset: isolated product render for the Papas y Café restaurant catalog. Photorealistic natural studio food photography matching a consistent series: camera at elevated three-quarter angle around 35 degrees, soft warm light from upper left, crisp food texture, whole serving centered with complete silhouette and generous transparent margin. Genuine transparent alpha background; no table or room background, people, hands, cutlery, text, numbers, prices, logos or watermarks. No invented ingredients. Input image is the real Santarosanos dish; preserve its presentation and relative amounts. Recreate the complete serving with exactly two santarosano chorizo sausages cut into thick browned slices grouped on the left, one yellow corn arepa on the right with melted white mozzarella over its surface, and thick golden fries across the back. Retain the two tomato slices actually pictured at the front as visible reference garnish. The serving rests on red-and-white checkered deli paper with no printing and a modest shallow black tray, both fully visible at the edge. No shredded chicken or beef, sweetcorn kernels, extra sausages, herbs or new sauces.",
+      "master": "art-masters/scenes/santarosanos.png",
+      "nativeDimensions": [
+        1521,
+        1034
+      ],
+      "masterDimensions": [
+        1521,
+        1034
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/santarosanos-510.webp",
+          "dimensions": [
+            510,
+            347
+          ],
+          "upscaled": false,
+          "bytes": 57416
+        },
+        {
+          "path": "dist/assets/scenes/santarosanos-1200.webp",
+          "dimensions": [
+            1200,
+            816
+          ],
+          "upscaled": false,
+          "bytes": 242428
+        },
+        {
+          "path": "dist/assets/scenes/santarosanos-1920.webp",
+          "dimensions": [
+            1920,
+            1305
+          ],
+          "upscaled": true,
+          "bytes": 484082
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "super-mixta",
+      "tool": "built-in imagegen",
+      "kind": "generated-product-render",
+      "reference": "dist/assets/despeinada-real.jpeg",
+      "prompt": "Use case: product-mockup. Asset: isolated product render for the Papas y Café restaurant catalog. Photorealistic natural studio food photography matching a consistent series: camera at elevated three-quarter angle around 35 degrees, soft warm light from upper left, crisp food texture, whole serving centered with complete silhouette and generous transparent margin. Genuine transparent alpha background; no table or room background, people, hands, cutlery, text, numbers, prices, logos or watermarks. No invented ingredients. Input image is the real La despeinada súper mixta dish. Recreate the entire serving faithfully: one broad low natural corn arepa on the left topped with shredded beef and chicken, melted white cheese, and thick slices of santarosano chorizo; a generous portion of thick rustic fries on the right. Preserve the two small white sauce cups at the front, one creamy pale yellow sauce and one green house sauce, exactly as photographed. Serve on a round white plate lined with red-and-white checkered deli paper with no printing, with the entire plate and cups completely visible. Keep the arepa recognizable underneath the meats. No corn kernels, lettuce, tomatoes, additional garnishes or food.",
+      "master": "art-masters/scenes/super-mixta.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "masterDimensions": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        254
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/super-mixta-510.webp",
+          "dimensions": [
+            510,
+            340
+          ],
+          "upscaled": false,
+          "bytes": 63404
+        },
+        {
+          "path": "dist/assets/scenes/super-mixta-1200.webp",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "upscaled": false,
+          "bytes": 283430
+        },
+        {
+          "path": "dist/assets/scenes/super-mixta-1920.webp",
+          "dimensions": [
+            1920,
+            1280
+          ],
+          "upscaled": true,
+          "bytes": 530062
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated."
+    },
+    {
+      "slug": "choripapa",
+      "tool": "built-in imagegen",
+      "kind": "generated-product-render",
+      "reference": "referencias/choripapa-afiche-anterior.jpeg",
+      "prompt": "Use case: product-mockup. Asset: isolated product render for the Papas y Café restaurant catalog. Photorealistic natural studio food photography matching a consistent series: camera at elevated three-quarter angle around 35 degrees, soft warm light from upper left, crisp food texture, whole serving centered with complete silhouette and generous transparent margin. Genuine transparent alpha background; no table or room background, people, hands, cutlery, text, numbers, prices, logos or watermarks. No invented ingredients. Input image is an OLD promotional poster used ONLY as visual food-presentation reference, never reproduce any lettering, price, signs or graphics. Isolate and regenerate a complete serving of Choripapa in a shallow white platter with black-and-white checkered food liner as shown. Recipe is strictly thick rustic homemade fries, sliced pink Zenú-type frankfurter sausage, thick browned santarosano chorizo slices, melted creamy white cheese and golden sweetcorn kernels. Ensure both types of sausage are visibly different, with the rustic chorizo thicker and more textured. Retain the abundant mound and rustic preparation of the reference, but omit its decorative tomato slices because they are not part of the confirmed recipe. No shredded beef or chicken, lettuce, herbs, additional ingredients, steam graphics or garnish. Whole platter and paper outline must be intact, not cropped.",
+      "master": "art-masters/scenes/choripapa.png",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "masterDimensions": [
+        1536,
+        1024
+      ],
+      "alphaExtrema": [
+        0,
+        254
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/choripapa-510.webp",
+          "dimensions": [
+            510,
+            340
+          ],
+          "upscaled": false,
+          "bytes": 64820
+        },
+        {
+          "path": "dist/assets/scenes/choripapa-1200.webp",
+          "dimensions": [
+            1200,
+            800
+          ],
+          "upscaled": false,
+          "bytes": 316180
+        },
+        {
+          "path": "dist/assets/scenes/choripapa-1920.webp",
+          "dimensions": [
+            1920,
+            1280
+          ],
+          "upscaled": true,
+          "bytes": 616306
+        }
+      ],
+      "notes": "Generated interpretation based on supplied reference, not original product photography. Native master kept unchanged; 1920px export is enlarged when indicated.",
+      "referenceRole": "food appearance from older promotional poster; old text and price explicitly excluded"
+    },
+    {
+      "slug": "salchipapa-tradicional",
+      "tool": "built-in imagegen",
+      "kind": "generated-recipe-illustration",
+      "reference": "dist/assets/salchipapota.jpeg",
+      "prompt": "Use case: product-mockup. Asset: isolated product render for the Papas y Café restaurant catalog. Photorealistic natural studio food photography matching a consistent series: camera at elevated three-quarter angle around 35 degrees, soft warm light from upper left, crisp food texture, whole serving centered with complete silhouette and generous transparent margin. Genuine transparent alpha background; no table or room background, people, hands, cutlery, text, numbers, prices, logos or watermarks. No invented ingredients. Input image is NOT the target dish: use it ONLY as a packaging and style reference for one short kraft paper bowl lined with black-and-white checkered food paper. Do NOT copy its food contents. Create an illustrative serving from this exact confirmed recipe for Salchipapa tradicional: thick rustic golden fries, sliced pink Zenú-type frankfurter sausage, and melted creamy white cheese only. Distribute visibly recognizable pink sausage slices among the fries with a moderate cheese layer. Single whole kraft bowl, complete rim and base, no label, centered with ample transparent margin. Absolutely no shredded chicken, beef, chorizo, corn kernels, herbs, tomato, sauce cups, extra ingredients or garnish. This target must look simpler than the reference dish and contain only the three named ingredients.",
+      "master": "art-masters/scenes/salchipapa-tradicional.png",
+      "nativeDimensions": [
+        1327,
+        1186
+      ],
+      "masterDimensions": [
+        1327,
+        1186
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "exports": [
+        {
+          "path": "dist/assets/scenes/salchipapa-tradicional-510.webp",
+          "dimensions": [
+            510,
+            456
+          ],
+          "upscaled": false,
+          "bytes": 52332
+        },
+        {
+          "path": "dist/assets/scenes/salchipapa-tradicional-1200.webp",
+          "dimensions": [
+            1200,
+            1072
+          ],
+          "upscaled": false,
+          "bytes": 224628
+        },
+        {
+          "path": "dist/assets/scenes/salchipapa-tradicional-1920.webp",
+          "dimensions": [
+            1920,
+            1716
+          ],
+          "upscaled": true,
+          "bytes": 406754
+        }
+      ],
+      "notes": "Composición ilustrativa generada desde la receta confirmada; no existe foto individual de este plato. salchipapota.jpeg se utiliza solo como referencia de envase kraft y estilo de presentación. El envase se infiere y no confirma una presentación oficial.",
+      "referenceRole": "packaging-and-style-only; no individual product photograph exists"
+    }
+  ],
+  "description": "Scene artwork provenance; generated with the built-in imagegen tool. Dimensions and enlarged exports are recorded explicitly."
+}
